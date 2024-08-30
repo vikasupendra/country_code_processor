@@ -1,0 +1,7 @@
+cmd to run python code (on a Mac):
+>> unzip the zipped file
+>> once unzipped, you should be able to see the python file, the source CSV file and the output csv file from the python code
+>> cd to the directory from terminal 
+>> python3 assessment.py --input_csv_path 'customer_dimension.csv' --output_csv_path 'csv_output.csv'
+OR 
+>> python3 assessment.py --input_csv_path '<fully qualified path>/customer_dimension.csv' --output_csv_path '<fully qualified path>/csv_output.csv'
